@@ -14,4 +14,4 @@ adb shell rm -rf /sdcard/Android/data/com.tencent.ig/files/UE4Game/ShadowTracker
 echo.
 echo تم تنظيف الملفات المؤقتة بنجاح ✅
 echo يمكنك الآن تشغيل اللعبة بأداء أفضل
-pause
+
