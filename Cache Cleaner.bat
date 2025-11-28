@@ -30,4 +30,4 @@ goto :eof
 echo You must run this script as an Administrator !
 echo ^<press any key^>
 cls
-pause
+
