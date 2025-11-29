@@ -19,3 +19,7 @@
 # localhost name resolution is handled within DNS itself.
 #	127.0.0.1       localhost
 #	::1             localhost
+
+127.0.0.1 conf.syzs.qq.com
+127.0.0.1 pm.myapp.com
+127.0.0.1 unifiedaccess.gameloop.com
